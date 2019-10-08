@@ -10,3 +10,4 @@ The objective with this one is to have a small NodeJS ready to be launch wheneve
 
 ### Notes
 * no nodemon for this one.
+* check your node version (just in case) before running `yarn`. The console might show some warnings about it 🤷🏽‍♂️.
